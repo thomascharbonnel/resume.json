@@ -71,7 +71,6 @@
       ]
     }
   ],
-  "volunteer": [],
   "education": [
     {
       "institution": "DTU (Technical University of Denmark) 🇩🇰",
@@ -115,8 +114,6 @@
       ]
     }
   ],
-  "awards": [],
-  "publications": [],
   "skills": [
     {
       "name": "Software Development",
@@ -201,6 +198,5 @@
         "Language Learning"
       ]
     }
-  ],
-  "references": []
+  ]
 }

@@ -1,0 +1,206 @@
+{
+  "basics": {
+    "name": "Thomas Charbonnel",
+    "label": "Software Engineer",
+    "picture": "http://gravatar.com/avatar/2a09cefb94b222a285eace96a62c2368",
+    "email": "thomas@charbonnel.email",
+    "phone": "🇺🇲 +1 (202) 697-9761, 🇭🇰 +852 5687 5995",
+    "website": "https://www.charbonnel.eu",
+    "summary": "Software Engineer with a knack for linguistics and languages. I have been toying around with Ruby for a few years and have been playing with Elixir, Scala and Go more recently. I code on OS X with a mix of Vim, tmux, zsh and git.",
+    "location": {
+      "address": "6/F Wui Fu Building,\\n10-12 Stone Nullah Lane",
+      "postalCode": "",
+      "city": "Wan Chai",
+      "countryCode": "HK",
+      "region": "Hong Kong Island"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "thomas-charbonnel-4a536762",
+        "url": "https://www.linkedin.com/in/thomas-charbonnel-4a536762/"
+      },
+      {
+        "network": "Github",
+        "username": "thomascharbonnel",
+        "url": "https://github.com/thomascharbonnel"
+      },
+      {
+        "network": "Skype",
+        "username": "thcharbonnel",
+        "url": "thcharbonnel"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "HelperChoice 🇭🇰",
+      "position": "Junior Backend Engineer",
+      "website": "https://www.helperchoice.com",
+      "startDate": "2016-11-01",
+      "endDate": "2017-02-01",
+      "summary": "HelperChoice is a social startup connecting domestic helpers with employers in Hong Kong, Macau and the UAE.",
+      "highlights": [
+        "Maintained and monitored a Ruby on Rails website",
+        "Developed a Mailchimp/Mandrill synchronization extension",
+        "Created a Wordpress-statifying script in Ruby"
+      ]
+    },
+    {
+      "company": "ANSSI (French Networks and Security Agency) 🇫🇷 ",
+      "position": "Intern",
+      "website": "https://ssi.gouv.fr/en/",
+      "startDate": "2015-04-15",
+      "endDate": "2016-01-15",
+      "summary": "The ANSSI's goal is to spread good computer systems security practices at a nationwide level. The agency is under the supervision of the French Prime Minister.",
+      "highlights": [
+        "Developed a static search engine in Python (index generation) and Javascript (engine)",
+        "Created a Redmine plugin"
+      ]
+    },
+    {
+      "company": "University of Nevada in Las Vegas — Transportation Research Center 🇺🇲",
+      "position": "Intern",
+      "website": "http://www.trc.unlv.edu/",
+      "startDate": "2014-04-20",
+      "endDate": "2014-08-20",
+      "summary": "The TRC is focused on developing solutions to solve transportation problems arising in the State of Nevada.",
+      "highlights": [
+        "Developed a website (C#/ASP.NET, jQuery, Bootstrap, leaflet.js) displaying car accidents for the Nevada Police Department",
+        "Designed the database schema for said project"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "DTU (Technical University of Denmark) 🇩🇰",
+      "area": "Computer Science",
+      "studyType": "Exchange Semester",
+      "startDate": "2016-01-25",
+      "endDate": "2016-06-30",
+      "gpa": "",
+      "courses": [
+        "Machine Learning",
+        "Distributed Systems"
+      ]
+    },
+    {
+      "institution": "EFREI 🇫🇷",
+      "area": "Computer Science",
+      "studyType": "Master of Science",
+      "startDate": "2010-09-01",
+      "endDate": "2016-12-25",
+      "gpa": "",
+      "courses": [
+        "C/C++",
+        "Java",
+        "Cisco",
+        "Android",
+        "UML",
+        "Oracle SQL"
+      ]
+    },
+    {
+      "institution": "San José State University 🇺🇲",
+      "area": "CA",
+      "studyType": "International Immersion",
+      "startDate": "2012-08-20",
+      "endDate": "2012-11-20",
+      "gpa": "",
+      "courses": [
+        "Operating Systems",
+        "Networks and Protocols",
+        "Entrepreneurship"
+      ]
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Software Development",
+      "level": "Jedi",
+      "keywords": [
+        "Ruby",
+        "Ruby on Rails",
+        "C",
+        "LaTeX",
+        "SQL (PostgreSQL)"
+      ]
+    },
+    {
+      "name": "System Administration",
+      "level": "jedi",
+      "keywords": [
+        "zsh",
+        "vim",
+        "Ubuntu"
+      ]
+    },
+    {
+      "name": "Software Development",
+      "level": "Padawan",
+      "keywords": [
+        "Scala",
+        "C#",
+        "Python",
+        "jQuery",
+        "R"
+      ]
+    },
+    {
+      "name": "System Administration",
+      "level": "padawan",
+      "keywords": [
+        "git",
+        "Docker",
+        "Heroku",
+        "FreeBSD"
+      ]
+    },
+    {
+      "name": "Software Development",
+      "level": "initiate",
+      "keywords": [
+        "Go",
+        "Elixir"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "French 🇫🇷",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English 🇺🇲",
+      "fluency": "Fluent, TOEIC 965 / 990"
+    },
+    {
+      "language": "Danish 🇩🇰",
+      "fluency": "Working knowledge"
+    },
+    {
+      "language": "Italian 🇮🇹",
+      "fluency": "Working knowledge"
+    },
+    {
+      "language": "Esperanto",
+      "fluency": "Basic"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Arts",
+      "keywords": [
+        "Linguistics",
+        "Literature",
+        "Philosophy",
+        "History",
+        "Language Learning"
+      ]
+    }
+  ],
+  "references": []
+}

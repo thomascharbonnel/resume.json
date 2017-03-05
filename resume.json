@@ -4,7 +4,7 @@
     "label": "Software Engineer",
     "picture": "http://gravatar.com/avatar/2a09cefb94b222a285eace96a62c2368",
     "email": "thomas@charbonnel.email",
-    "phone": "🇺🇲 +1 (202) 697-9761, 🇭🇰 +852 5687 5995",
+    "phone": "🇺🇸 +1 (202) 697-9761, 🇭🇰 +852 5687 5995",
     "website": "https://www.charbonnel.eu",
     "summary": "Software Engineer with a knack for linguistics and languages. I have been toying around with Ruby for a few years and have been playing with Elixir, Scala and Go more recently. I code on OS X with a mix of Vim, tmux, zsh and git.",
     "location": {
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "company": "University of Nevada in Las Vegas — Transportation Research Center 🇺🇲",
+      "company": "University of Nevada in Las Vegas — Transportation Research Center 🇺🇸",
       "position": "Intern",
       "website": "http://www.trc.unlv.edu/",
       "startDate": "2014-04-20",
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "institution": "San José State University 🇺🇲",
+      "institution": "San José State University 🇺🇸",
       "area": "CA",
       "studyType": "International Immersion",
       "startDate": "2012-08-20",
@@ -171,7 +171,7 @@
       "fluency": "Native speaker"
     },
     {
-      "language": "English 🇺🇲",
+      "language": "English 🇺🇸",
       "fluency": "Fluent, TOEIC 965 / 990"
     },
     {
